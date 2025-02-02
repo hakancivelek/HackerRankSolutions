@@ -1,10 +1,11 @@
-package com.hakancivelek.week1.sparseArray;
+package com.hakancivelek.preparationKits.week1.sparseArray;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author <a href="mailto:hakancivelek5461@gmail.com">Hakan CİVELEK</a>
+ * @author Hakan Civelek
+ * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 class Result {
 

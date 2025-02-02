@@ -1,9 +1,10 @@
-package com.hakancivelek.week1.plusMinus;
+package com.hakancivelek.preparationKits.week1.plusMinus;
 
 import java.util.List;
 
 /**
- * @author <a href="mailto:hakancivelek5461@gmail.com">Hakan CİVELEK</a>
+ * @author Hakan Civelek
+ * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 
 class Result {

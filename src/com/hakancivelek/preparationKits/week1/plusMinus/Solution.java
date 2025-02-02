@@ -1,4 +1,4 @@
-package com.hakancivelek.week1.plusMinus;
+package com.hakancivelek.preparationKits.week1.plusMinus;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -30,7 +30,8 @@ import static java.util.stream.Collectors.toList;
  * 0.333333
  * 0.166667
  *
- * @author <a href="mailto:hakancivelek5461@gmail.com">Hakan CİVELEK</a>
+ * @author Hakan Civelek
+ * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 
 public class Solution {

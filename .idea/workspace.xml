@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/week1/sparseArray/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/week1/sparseArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/javaIntroduction/dataTypes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/javaIntroduction/loopsI/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/javaIntroduction/outputFormatting/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/week1/miniMaxSum/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/week1/miniMaxSum/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/week1/miniMaxSum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/week1/miniMaxSum/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/week1/plusMinus/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/week1/plusMinus/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/week1/plusMinus/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/week1/plusMinus/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/week1/sparseArray/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/week1/sparseArray/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/week1/sparseArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/week1/sparseArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/week1/timeConversion/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/week1/timeConversion/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/week1/timeConversion/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/week1/timeConversion/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +57,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hakancivelek.javaIntroduction.outputFormatting.Solution" />
+      <module name="HackerRankSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hakancivelek.javaIntroduction.outputFormatting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +86,8 @@
       <option name="presentableId" value="Default" />
       <updated>1738426373474</updated>
       <workItem from="1738426374595" duration="5270000" />
-      <workItem from="1738491772108" duration="1853000" />
+      <workItem from="1738491772108" duration="2322000" />
+      <workItem from="1738529173597" duration="2210000" />
     </task>
     <task id="LOCAL-00001" summary="plus minus solved!">
       <created>1738426589877</created>
@@ -87,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738492630359</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Spares Array solved!">
+      <created>1738495214821</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738495214821</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +134,7 @@
     <MESSAGE value="plus minus solved!" />
     <MESSAGE value="Mini-Max Sum Solved!" />
     <MESSAGE value="Time Conversion solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Time Conversion solved!" />
+    <MESSAGE value="Spares Array solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spares Array solved!" />
   </component>
 </project>

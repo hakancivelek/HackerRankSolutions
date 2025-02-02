@@ -1,9 +1,10 @@
-package com.hakancivelek.week1.timeConversion;
+package com.hakancivelek.preparationKits.week1.timeConversion;
 
 /**
  * This class provides a method to convert a given 12-hour AM/PM formatted time string
  * into a 24-hour (military) time format.
- * @author <a href="mailto:hakancivelek5461@gmail.com">Hakan CİVELEK</a>
+ * @author Hakan Civelek
+ * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 class Result {
 
