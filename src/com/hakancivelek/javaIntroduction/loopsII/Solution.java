@@ -1,6 +1,7 @@
 package com.hakancivelek.javaIntroduction.loopsII;
 
 import java.util.*;
+
 /**
  * This class handles reading multiple queries and generating a series of numbers
  * based on the provided formula. Each series is printed as a space-separated line.
