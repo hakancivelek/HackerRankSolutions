@@ -8,7 +8,7 @@ import java.util.*;
  * <p>
  * Each string is left-aligned with a width of 15 characters,
  * and each integer is printed as a 3-digit number, padded with leading zeros if necessary.
- * @author Hakan Civelek
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 public class Solution {

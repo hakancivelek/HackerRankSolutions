@@ -2,7 +2,7 @@ package com.hakancivelek.preparationKits.oneMonthPreparationKit.week1.flippingBi
 
 /**
  * The Result class provides a method to flip all bits of a given 32-bit unsigned integer.
- * @author Hakan Civelek
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 public class Result {

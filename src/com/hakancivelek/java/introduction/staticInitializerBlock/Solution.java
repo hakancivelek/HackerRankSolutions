@@ -32,7 +32,7 @@ import java.util.Scanner;
  * java.lang.Exception: Breadth and height must be positive
  * </pre>
  *
- * @author Hakan Civelek
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 public class Solution {

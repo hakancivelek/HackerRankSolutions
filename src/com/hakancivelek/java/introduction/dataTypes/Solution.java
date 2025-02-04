@@ -7,7 +7,7 @@ import java.math.BigInteger;
  * This program determines the smallest primitive data type that can store a given number.
  * It reads multiple test cases and checks if the number can fit into byte, short, int, or long.
  * If a number cannot fit into any of these data types, it prints that the number cannot be fitted.
- * @author Hakan Civelek
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 

@@ -30,7 +30,7 @@ import static java.util.stream.Collectors.toList;
  * 0.333333
  * 0.166667
  *
- * @author Hakan Civelek
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 

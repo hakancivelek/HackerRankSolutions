@@ -6,7 +6,7 @@ import java.util.*;
  * The Result class provides a method to calculate the absolute difference between
  * the sums of the diagonals of a square matrix.
  *
- * @author Hakan Civelek
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 class Result {

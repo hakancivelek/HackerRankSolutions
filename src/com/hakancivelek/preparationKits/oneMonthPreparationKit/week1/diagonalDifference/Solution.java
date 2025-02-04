@@ -8,7 +8,7 @@ import java.util.Scanner;
  * The Solution class reads a square matrix from the user, calculates the absolute
  * difference between its two diagonal sums, and prints the result.
  *
- * @author Hakan Civelek
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 public class Solution {

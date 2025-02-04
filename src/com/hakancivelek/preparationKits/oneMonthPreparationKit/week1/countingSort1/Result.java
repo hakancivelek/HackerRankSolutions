@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * The Result class provides an implementation of the counting sort algorithm.
  *
- * @author Hakan Civelek
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 public class Result {

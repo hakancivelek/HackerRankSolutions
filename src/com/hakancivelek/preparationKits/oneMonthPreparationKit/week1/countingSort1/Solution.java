@@ -11,7 +11,7 @@ import java.util.stream.Stream;
  * The Solution class reads input, processes the counting sort algorithm,
  * and prints the result to the console.
  *
- * @author Hakan Civelek
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 public class Solution {

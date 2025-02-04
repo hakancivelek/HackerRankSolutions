@@ -34,7 +34,7 @@ import java.util.stream.*;
  *
  * @param arr A list of exactly five positive integers.
  *
- * @author Hakan Civelek
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 

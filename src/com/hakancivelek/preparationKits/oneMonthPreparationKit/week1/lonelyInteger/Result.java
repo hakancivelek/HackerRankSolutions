@@ -5,7 +5,7 @@ import java.util.Objects;
 
 /**
  * The Result class provides a method to find the unique integer in a given list.
- * @author Hakan Civelek
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 public class Result {

@@ -8,7 +8,7 @@ import java.util.Scanner;
  * A solution to determine the day of the week for a given date.
  * The user inputs a date as month, day, and year, and the program outputs the corresponding day in uppercase letters.
  *
- * @author Hakan Civelek
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 public class Solution {
