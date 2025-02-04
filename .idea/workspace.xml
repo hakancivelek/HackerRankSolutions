@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/javaIntroduction/intToString/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/week1/diagonalDifference/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/week1/diagonalDifference/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/_Yazilim/HackerRankSolutions/src/com/hakancivelek/preparationKits/week1/lonelyInteger",
+    "last_opened_file_path": "D:/_Yazilim/Akin Kaldiroglu Trainings/UPOD/UpodMyPractices",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,7 +83,8 @@
       <workItem from="1738426374595" duration="5270000" />
       <workItem from="1738491772108" duration="2322000" />
       <workItem from="1738529173597" duration="3234000" />
-      <workItem from="1738595297348" duration="7427000" />
+      <workItem from="1738595297348" duration="8081000" />
+      <workItem from="1738659904265" duration="1402000" />
     </task>
     <task id="LOCAL-00001" summary="plus minus solved!">
       <created>1738426589877</created>
@@ -161,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738610017531</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="javaInt. Int to String solved!">
+      <created>1738610617459</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738610617459</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +187,7 @@
     <MESSAGE value="javaInt. loopsII solved!" />
     <MESSAGE value="javaInt. end of file solved!" />
     <MESSAGE value="javaInt. Static Initializer Block solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="javaInt. Static Initializer Block solved!" />
+    <MESSAGE value="javaInt. Int to String solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="javaInt. Int to String solved!" />
   </component>
 </project>
