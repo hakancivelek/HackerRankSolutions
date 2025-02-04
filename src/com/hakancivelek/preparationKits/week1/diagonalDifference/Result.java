@@ -23,18 +23,12 @@ class Result {
         int sumFromLeftToRight = 0;
         int sumFromRightToLeft = 0;
 
-        for (int i = 0; i < size; i++) {
-            for (int j = 0; j < size; j++) {
-                if (i == j) {
+        int indexOfList = size - 1;
+        for(int i = 0; i < size; i ++){
+            for(int j = 0; j < size; j++){
+                if(i == j){
                     sumFromLeftToRight += arr.get(i).get(j);
-                }
-            }
-        }
-
-        int indexOfArray = size - 1;
-        for (int i = 0; i < size; i++) {
-            for (int j = indexOfArray; j >= 0; j--) {
-                if (j == indexOfArray - i) {
+                } if (j == indexOfList - i) {
                     sumFromRightToLeft += arr.get(i).get(j);
                 }
             }
