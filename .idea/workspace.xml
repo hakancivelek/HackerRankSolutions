@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/currencyFormatter/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/stringsIntroduction/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +87,8 @@
       <workItem from="1738696216540" duration="3862000" />
       <workItem from="1738701840403" duration="382000" />
       <workItem from="1738741576784" duration="2454000" />
-      <workItem from="1738754903982" duration="4465000" />
+      <workItem from="1738754903982" duration="5818000" />
+      <workItem from="1738764365241" duration="3087000" />
     </task>
     <task id="LOCAL-00001" summary="plus minus solved!">
       <created>1738426589877</created>
@@ -229,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738744678293</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="introduction Currency Formatter solved!">
+      <created>1738760218478</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1738760218478</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +262,7 @@
     <MESSAGE value="week1 Pangrams solved!" />
     <MESSAGE value="week1 Permuting Two Arrays solved!" />
     <MESSAGE value="javaDocs fixed!" />
-    <option name="LAST_COMMIT_MESSAGE" value="javaDocs fixed!" />
+    <MESSAGE value="introduction Currency Formatter solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="introduction Currency Formatter solved!" />
   </component>
 </project>
