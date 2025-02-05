@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/pangrams/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/pangrams/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +83,7 @@
       <workItem from="1738659904265" duration="6577000" />
       <workItem from="1738696216540" duration="3862000" />
       <workItem from="1738701840403" duration="382000" />
-      <workItem from="1738741576784" duration="298000" />
+      <workItem from="1738741576784" duration="1016000" />
     </task>
     <task id="LOCAL-00001" summary="plus minus solved!">
       <created>1738426589877</created>
@@ -208,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738702178342</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="week1 Pangrams solved!">
+      <created>1738741973331</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1738741973331</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +233,7 @@
     <MESSAGE value="week1 Counting Sort solved!" />
     <MESSAGE value="javaInt. Date and Time solved!" />
     <MESSAGE value="docs Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs Updated" />
+    <MESSAGE value="week1 Pangrams solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="week1 Pangrams solved!" />
   </component>
 </project>
