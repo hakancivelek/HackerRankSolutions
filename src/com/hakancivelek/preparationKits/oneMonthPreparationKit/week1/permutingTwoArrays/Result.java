@@ -6,15 +6,21 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Determines whether two arrays can be permuted such that for every index i, A[i] + B'[i] >= k.
+ * The Result class contains the implementation of the twoArrays function.
  *
- * @param minRequiredSum The required minimum sum for each index.
- * @param list1 The first list of integers.
- * @param list2 The second list of integers.
- * @return "YES" if such a permutation exists, otherwise "NO".
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
+ * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 class Result {
 
+    /**
+     * Determines whether two arrays can be permuted such that for every index i, A[i] + B'[i] >= k.
+     *
+     * @param minRequiredSum The required minimum sum for each index.
+     * @param list1 The first list of integers.
+     * @param list2 The second list of integers.
+     * @return "YES" if such a permutation exists, otherwise "NO".
+     */
     public static String twoArrays(int minRequiredSum, List<Integer> list1, List<Integer> list2) {
         Collections.sort(list1);
         Collections.sort(list2);
