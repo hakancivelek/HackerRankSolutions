@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/stringsIntroduction/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/substring/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +87,7 @@
       <workItem from="1738701840403" duration="382000" />
       <workItem from="1738741576784" duration="2454000" />
       <workItem from="1738754903982" duration="5818000" />
-      <workItem from="1738764365241" duration="3087000" />
+      <workItem from="1738764365241" duration="3434000" />
     </task>
     <task id="LOCAL-00001" summary="plus minus solved!">
       <created>1738426589877</created>
@@ -237,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738760218478</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="introduction Strings Introduction solved!">
+      <created>1738768881776</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1738768881776</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,6 +269,7 @@
     <MESSAGE value="week1 Permuting Two Arrays solved!" />
     <MESSAGE value="javaDocs fixed!" />
     <MESSAGE value="introduction Currency Formatter solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="introduction Currency Formatter solved!" />
+    <MESSAGE value="introduction Strings Introduction solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="introduction Strings Introduction solved!" />
   </component>
 </project>

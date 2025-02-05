@@ -2,8 +2,21 @@ package com.hakancivelek.java.introduction.stringsIntroduction;
 
 import java.util.Scanner;
 
+/**
+ * The Solution class reads two strings from input, capitalizes their first letters,
+ * compares them lexicographically, and prints the results.
+ *
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
+ * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
+ */
 public class Solution {
 
+    /**
+     * The main method reads two strings from standard input, capitalizes their first letters,
+     * calculates their total length, compares them lexicographically, and prints the results.
+     *
+     * @param args Command-line arguments (not used in this program).
+     */
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
