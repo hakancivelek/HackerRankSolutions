@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="Strings Regex solved!">
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/regex/MyRegex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/regex/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +90,7 @@
       <workItem from="1738741576784" duration="2454000" />
       <workItem from="1738754903982" duration="5818000" />
       <workItem from="1738764365241" duration="6076000" />
-      <workItem from="1738834435335" duration="6522000" />
+      <workItem from="1738834435335" duration="9436000" />
     </task>
     <task id="LOCAL-00001" summary="plus minus solved!">
       <created>1738426589877</created>
@@ -300,15 +302,20 @@
       <option name="project" value="LOCAL" />
       <updated>1738851277672</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Strings Pattern Syntax Checker solved!">
+      <created>1738852345899</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1738852345899</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Spares Array solved!" />
-    <MESSAGE value="java Introduction's three problem solved and author information updated!" />
     <MESSAGE value="lonely Integer solved!" />
     <MESSAGE value="flipping Bits solved!" />
     <MESSAGE value="javaInt. loopsII solved!" />
@@ -332,6 +339,8 @@
     <MESSAGE value="week1 XOR Strings 2 solved!" />
     <MESSAGE value="Strings Anagrams solved!" />
     <MESSAGE value="Strings String Tokens solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Strings String Tokens solved!" />
+    <MESSAGE value="Strings Pattern Syntax Checker solved!" />
+    <MESSAGE value="Strings Regex solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Strings Regex solved!" />
   </component>
 </project>
