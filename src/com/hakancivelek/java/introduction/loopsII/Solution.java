@@ -5,6 +5,7 @@ import java.util.*;
 /**
  * This class handles reading multiple queries and generating a series of numbers
  * based on the provided formula. Each series is printed as a space-separated line.
+ *
  * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
