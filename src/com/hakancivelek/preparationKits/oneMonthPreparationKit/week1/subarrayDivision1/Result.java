@@ -5,8 +5,8 @@ import java.util.List;
 /**
  * This class contains the logic to determine how many ways the chocolate squares
  * can be divided into a contiguous subarray of length "month" where the sum equals "day".
- * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  *
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a> *
  * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 class Result {
