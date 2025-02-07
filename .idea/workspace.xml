@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="Strings Regex solved!">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/regex/MyRegex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/regex/Solution.java" afterDir="false" />
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/bigNumber/bigDecimal/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +89,9 @@
       <workItem from="1738741576784" duration="2454000" />
       <workItem from="1738754903982" duration="5818000" />
       <workItem from="1738764365241" duration="6076000" />
-      <workItem from="1738834435335" duration="9436000" />
+      <workItem from="1738834435335" duration="10638000" />
+      <workItem from="1738917197335" duration="799000" />
+      <workItem from="1738938495031" duration="1731000" />
     </task>
     <task id="LOCAL-00001" summary="plus minus solved!">
       <created>1738426589877</created>
@@ -309,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738852345899</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Strings Regex solved!">
+      <created>1738862496734</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1738862496734</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
