@@ -8,6 +8,9 @@ import java.util.Scanner;
  * using Java's BigInteger class.
  * It handles input of very large numbers, performs addition and multiplication,
  * and outputs the results.
+ *
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
+ * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>
  */
 public class Solution {
 
