@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="" />
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/twoDArray/Solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +90,7 @@
       <workItem from="1738764365241" duration="6076000" />
       <workItem from="1738834435335" duration="10638000" />
       <workItem from="1738917197335" duration="799000" />
-      <workItem from="1738938495031" duration="3341000" />
+      <workItem from="1738938495031" duration="3976000" />
     </task>
     <task id="LOCAL-00001" summary="plus minus solved!">
       <created>1738426589877</created>
@@ -335,14 +337,20 @@
       <option name="project" value="LOCAL" />
       <updated>1738944879541</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Data Structures 1D Array solved!">
+      <created>1738945322012</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1738945322012</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="javaInt. end of file solved!" />
     <MESSAGE value="javaInt. Static Initializer Block solved!" />
     <MESSAGE value="javaInt. Int to String solved!" />
     <MESSAGE value="week1 Diagonal Difference solved!" />
@@ -367,6 +375,7 @@
     <MESSAGE value="BigNumber BigDecimal solved!" />
     <MESSAGE value="BigNumber Primality Test solved!" />
     <MESSAGE value="BigNumber BigInteger solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="BigNumber BigInteger solved!" />
+    <MESSAGE value="Data Structures 1D Array solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Structures 1D Array solved!" />
   </component>
 </project>
