@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/bigNumber/bigDecimal/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/bigNumber/primalityTest/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/bigNumber/bigDecimal/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/bigNumber/bigDecimal/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,7 @@
       <workItem from="1738764365241" duration="6076000" />
       <workItem from="1738834435335" duration="10638000" />
       <workItem from="1738917197335" duration="799000" />
-      <workItem from="1738938495031" duration="1731000" />
+      <workItem from="1738938495031" duration="2389000" />
     </task>
     <task id="LOCAL-00001" summary="plus minus solved!">
       <created>1738426589877</created>
@@ -317,14 +317,20 @@
       <option name="project" value="LOCAL" />
       <updated>1738862496734</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="BigNumber BigDecimal solved!">
+      <created>1738943457233</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1738943457233</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lonely Integer solved!" />
     <MESSAGE value="flipping Bits solved!" />
     <MESSAGE value="javaInt. loopsII solved!" />
     <MESSAGE value="javaInt. end of file solved!" />
@@ -349,6 +355,7 @@
     <MESSAGE value="Strings String Tokens solved!" />
     <MESSAGE value="Strings Pattern Syntax Checker solved!" />
     <MESSAGE value="Strings Regex solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Strings Regex solved!" />
+    <MESSAGE value="BigNumber BigDecimal solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="BigNumber BigDecimal solved!" />
   </component>
 </project>
