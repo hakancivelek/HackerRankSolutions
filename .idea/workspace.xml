@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="Data Structures 2D Array solved!">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/salesByMatch/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/salesByMatch/Solution.java" afterDir="false" />
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/mockTest/findTheMedian/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/mockTest/flippingTheMatrix/Result.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +94,7 @@
       <workItem from="1738917197335" duration="799000" />
       <workItem from="1738938495031" duration="5350000" />
       <workItem from="1739024194194" duration="1884000" />
-      <workItem from="1739033314594" duration="1227000" />
+      <workItem from="1739033314594" duration="3991000" />
     </task>
     <task id="LOCAL-00001" summary="plus minus solved!">
       <created>1738426589877</created>
@@ -355,14 +355,20 @@
       <option name="project" value="LOCAL" />
       <updated>1738950053592</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="week2 Sales By Match solved!">
+      <created>1739035493111</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1739035493111</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="javaInt. Int to String solved!" />
     <MESSAGE value="week1 Diagonal Difference solved!" />
     <MESSAGE value="week1 Counting Sort solved!" />
     <MESSAGE value="javaInt. Date and Time solved!" />
@@ -387,6 +393,7 @@
     <MESSAGE value="BigNumber BigInteger solved!" />
     <MESSAGE value="Data Structures 1D Array solved!" />
     <MESSAGE value="Data Structures 2D Array solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data Structures 2D Array solved!" />
+    <MESSAGE value="week2 Sales By Match solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="week2 Sales By Match solved!" />
   </component>
 </project>
