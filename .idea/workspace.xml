@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/twoDArray/Solution.java" afterDir="false" />
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="Data Structures 2D Array solved!">
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/salesByMatch/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/salesByMatch/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,20 +33,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/_Yazilim/Akin Kaldiroglu Trainings/UPOD/UpodMyPractices&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/_Yazilim/Akin Kaldiroglu Trainings/Java ile RESTful  Web Servisi Gelistirme Temeller/myProjects/RESTful Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\_Yazilim\HackerRankSolutions\src\com\hakancivelek\preparationKits\week1\lonelyInteger" />
@@ -90,7 +92,9 @@
       <workItem from="1738764365241" duration="6076000" />
       <workItem from="1738834435335" duration="10638000" />
       <workItem from="1738917197335" duration="799000" />
-      <workItem from="1738938495031" duration="3976000" />
+      <workItem from="1738938495031" duration="5350000" />
+      <workItem from="1739024194194" duration="1884000" />
+      <workItem from="1739033314594" duration="1227000" />
     </task>
     <task id="LOCAL-00001" summary="plus minus solved!">
       <created>1738426589877</created>
@@ -344,14 +348,20 @@
       <option name="project" value="LOCAL" />
       <updated>1738945322012</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Data Structures 2D Array solved!">
+      <created>1738950053592</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1738950053592</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="javaInt. Static Initializer Block solved!" />
     <MESSAGE value="javaInt. Int to String solved!" />
     <MESSAGE value="week1 Diagonal Difference solved!" />
     <MESSAGE value="week1 Counting Sort solved!" />
@@ -376,6 +386,7 @@
     <MESSAGE value="BigNumber Primality Test solved!" />
     <MESSAGE value="BigNumber BigInteger solved!" />
     <MESSAGE value="Data Structures 1D Array solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data Structures 1D Array solved!" />
+    <MESSAGE value="Data Structures 2D Array solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Structures 2D Array solved!" />
   </component>
 </project>
