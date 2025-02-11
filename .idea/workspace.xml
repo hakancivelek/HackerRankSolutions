@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/dynamicArray/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/dynamicArray/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +98,8 @@
       <workItem from="1739033314594" duration="5247000" />
       <workItem from="1739090312543" duration="5351000" />
       <workItem from="1739112497051" duration="2502000" />
-      <workItem from="1739174226739" duration="3997000" />
+      <workItem from="1739174226739" duration="4742000" />
+      <workItem from="1739283920296" duration="1393000" />
     </task>
     <task id="LOCAL-00001" summary="plus minus solved!">
       <created>1738426589877</created>
@@ -399,14 +402,20 @@
       <option name="project" value="LOCAL" />
       <updated>1739215060470</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="week2 Max Min solved!">
+      <created>1739217771976</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1739217771976</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week1 Permuting Two Arrays solved!" />
     <MESSAGE value="javaDocs fixed!" />
     <MESSAGE value="introduction Currency Formatter solved!" />
     <MESSAGE value="introduction Strings Introduction solved!" />
@@ -431,6 +440,7 @@
     <MESSAGE value="week2 Zig Zag Sequence solved!" />
     <MESSAGE value="week2 Drawing Book solved!" />
     <MESSAGE value="week2 Caesar Cipher solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="week2 Caesar Cipher solved!" />
+    <MESSAGE value="week2 Max Min solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="week2 Max Min solved!" />
   </component>
 </project>
