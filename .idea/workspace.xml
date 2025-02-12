@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/list/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +99,7 @@
       <workItem from="1739112497051" duration="2502000" />
       <workItem from="1739174226739" duration="4742000" />
       <workItem from="1739283920296" duration="3776000" />
-      <workItem from="1739365172527" duration="4367000" />
+      <workItem from="1739365172527" duration="5372000" />
     </task>
     <task id="LOCAL-00001" summary="plus minus solved!">
       <created>1738426589877</created>
@@ -436,14 +437,20 @@
       <option name="project" value="LOCAL" />
       <updated>1739387629261</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="week2 Sum vs XOR solved!">
+      <created>1739391048794</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1739391048794</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="introduction Substring Comparisons solved!" />
     <MESSAGE value="introduction String revers and week1 Subarray Division 1 solved!" />
     <MESSAGE value="doc fix" />
     <MESSAGE value="docs fixed" />
@@ -468,6 +475,7 @@
     <MESSAGE value="week2 Grid Challenge solved!" />
     <MESSAGE value="week2 Prime Dates solved!" />
     <MESSAGE value="week2 Sherlock and Array solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="week2 Sherlock and Array solved!" />
+    <MESSAGE value="week2 Sum vs XOR solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="week2 Sum vs XOR solved!" />
   </component>
 </project>
