@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/list/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/Map.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,14 +99,8 @@
       <workItem from="1739112497051" duration="2502000" />
       <workItem from="1739174226739" duration="4742000" />
       <workItem from="1739283920296" duration="3776000" />
-      <workItem from="1739365172527" duration="5372000" />
-    </task>
-    <task id="LOCAL-00001" summary="plus minus solved!">
-      <created>1738426589877</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1738426589877</updated>
+      <workItem from="1739365172527" duration="6006000" />
+      <workItem from="1739448922968" duration="607000" />
     </task>
     <task id="LOCAL-00002" summary="Mini-Max Sum Solved!">
       <created>1738429588868</created>
@@ -444,14 +438,20 @@
       <option name="project" value="LOCAL" />
       <updated>1739391048794</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Java Data Structures List solved!">
+      <created>1739391993988</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1739391993989</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="introduction String revers and week1 Subarray Division 1 solved!" />
     <MESSAGE value="doc fix" />
     <MESSAGE value="docs fixed" />
     <MESSAGE value="week1 XOR Strings 2 solved!" />
@@ -476,6 +476,7 @@
     <MESSAGE value="week2 Prime Dates solved!" />
     <MESSAGE value="week2 Sherlock and Array solved!" />
     <MESSAGE value="week2 Sum vs XOR solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="week2 Sum vs XOR solved!" />
+    <MESSAGE value="Java Data Structures List solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Data Structures List solved!" />
   </component>
 </project>
