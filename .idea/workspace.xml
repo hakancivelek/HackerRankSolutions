@@ -98,14 +98,7 @@
       <workItem from="1739283920296" duration="3776000" />
       <workItem from="1739365172527" duration="6006000" />
       <workItem from="1739448922968" duration="7527000" />
-      <workItem from="1739560314170" duration="2480000" />
-    </task>
-    <task id="LOCAL-00009" summary="javaInt. loopsII solved!">
-      <created>1738608034958</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1738608034958</updated>
+      <workItem from="1739560314170" duration="2793000" />
     </task>
     <task id="LOCAL-00010" summary="javaInt. end of file solved!">
       <created>1738609130522</created>
@@ -443,14 +436,20 @@
       <option name="project" value="LOCAL" />
       <updated>1739562914958</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Java Object Oriented Programming Interface solved!">
+      <created>1739563342257</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1739563342257</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BigNumber BigDecimal solved!" />
     <MESSAGE value="BigNumber Primality Test solved!" />
     <MESSAGE value="BigNumber BigInteger solved!" />
     <MESSAGE value="Data Structures 1D Array solved!" />
@@ -475,6 +474,7 @@
     <MESSAGE value="Java Object Oriented Programming Inheritance I solved!" />
     <MESSAGE value="Java Object Oriented Programming Inheritance II solved!" />
     <MESSAGE value="Java Object Oriented Programming Abstract Class solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Object Oriented Programming Abstract Class solved!" />
+    <MESSAGE value="Java Object Oriented Programming Interface solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Object Oriented Programming Interface solved!" />
   </component>
 </project>
