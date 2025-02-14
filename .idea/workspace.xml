@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="Java Data Structures Hashset solved!">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/sort/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/sort/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/hashSet/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/hashSet/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/list/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/list/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,14 +98,7 @@
       <workItem from="1739283920296" duration="3776000" />
       <workItem from="1739365172527" duration="6006000" />
       <workItem from="1739448922968" duration="7527000" />
-      <workItem from="1739560314170" duration="1161000" />
-    </task>
-    <task id="LOCAL-00005" summary="Spares Array solved!">
-      <created>1738495214821</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1738495214821</updated>
+      <workItem from="1739560314170" duration="1461000" />
     </task>
     <task id="LOCAL-00006" summary="java Introduction's three problem solved and author information updated!">
       <created>1738532002103</created>
@@ -449,14 +436,20 @@
       <option name="project" value="LOCAL" />
       <updated>1739459195743</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Java Data Structures Sort solved!">
+      <created>1739561922277</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1739561922278</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Strings Anagrams solved!" />
     <MESSAGE value="Strings String Tokens solved!" />
     <MESSAGE value="Strings Pattern Syntax Checker solved!" />
     <MESSAGE value="Strings Regex solved!" />
@@ -481,6 +474,7 @@
     <MESSAGE value="Java Data Structures Map solved!" />
     <MESSAGE value="Java Data Structures Stack solved!" />
     <MESSAGE value="Java Data Structures Hashset solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Data Structures Hashset solved!" />
+    <MESSAGE value="Java Data Structures Sort solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Data Structures Sort solved!" />
   </component>
 </project>
