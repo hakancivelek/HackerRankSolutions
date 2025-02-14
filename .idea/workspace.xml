@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/hashSet/Solution.java" afterDir="false" />
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="Java Data Structures Hashset solved!">
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/sort/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/sort/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/hashSet/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/hashSet/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/list/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/list/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,14 +103,8 @@
       <workItem from="1739174226739" duration="4742000" />
       <workItem from="1739283920296" duration="3776000" />
       <workItem from="1739365172527" duration="6006000" />
-      <workItem from="1739448922968" duration="6641000" />
-    </task>
-    <task id="LOCAL-00004" summary="Time Conversion solved!">
-      <created>1738492630359</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1738492630359</updated>
+      <workItem from="1739448922968" duration="7527000" />
+      <workItem from="1739560314170" duration="1161000" />
     </task>
     <task id="LOCAL-00005" summary="Spares Array solved!">
       <created>1738495214821</created>
@@ -445,14 +442,20 @@
       <option name="project" value="LOCAL" />
       <updated>1739456678773</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Java Data Structures Hashset solved!">
+      <created>1739459195742</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1739459195743</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week1 XOR Strings 2 solved!" />
     <MESSAGE value="Strings Anagrams solved!" />
     <MESSAGE value="Strings String Tokens solved!" />
     <MESSAGE value="Strings Pattern Syntax Checker solved!" />
@@ -477,6 +480,7 @@
     <MESSAGE value="Java Data Structures List solved!" />
     <MESSAGE value="Java Data Structures Map solved!" />
     <MESSAGE value="Java Data Structures Stack solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Data Structures Stack solved!" />
+    <MESSAGE value="Java Data Structures Hashset solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Data Structures Hashset solved!" />
   </component>
 </project>

@@ -1,6 +1,5 @@
 package com.hakancivelek.java.dataStructures.list;
 
-import java.io.*;
 import java.util.*;
 
 /**
