@@ -98,14 +98,7 @@
       <workItem from="1739283920296" duration="3776000" />
       <workItem from="1739365172527" duration="6006000" />
       <workItem from="1739448922968" duration="7527000" />
-      <workItem from="1739560314170" duration="1461000" />
-    </task>
-    <task id="LOCAL-00006" summary="java Introduction's three problem solved and author information updated!">
-      <created>1738532002103</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1738532002103</updated>
+      <workItem from="1739560314170" duration="1791000" />
     </task>
     <task id="LOCAL-00007" summary="lonely Integer solved!">
       <created>1738597910264</created>
@@ -443,14 +436,20 @@
       <option name="project" value="LOCAL" />
       <updated>1739561922278</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Java Object Oriented Programming Inheritance I solved!">
+      <created>1739562197133</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1739562197133</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Strings String Tokens solved!" />
     <MESSAGE value="Strings Pattern Syntax Checker solved!" />
     <MESSAGE value="Strings Regex solved!" />
     <MESSAGE value="BigNumber BigDecimal solved!" />
@@ -475,6 +474,7 @@
     <MESSAGE value="Java Data Structures Stack solved!" />
     <MESSAGE value="Java Data Structures Hashset solved!" />
     <MESSAGE value="Java Data Structures Sort solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Data Structures Sort solved!" />
+    <MESSAGE value="Java Object Oriented Programming Inheritance I solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Object Oriented Programming Inheritance I solved!" />
   </component>
 </project>
