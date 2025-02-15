@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="" />
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/iterator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,14 +101,10 @@
       <workItem from="1739283920296" duration="3776000" />
       <workItem from="1739365172527" duration="6006000" />
       <workItem from="1739448922968" duration="7527000" />
-      <workItem from="1739560314170" duration="3430000" />
-    </task>
-    <task id="LOCAL-00012" summary="javaInt. Int to String solved!">
-      <created>1738610617459</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1738610617459</updated>
+      <workItem from="1739560314170" duration="4186000" />
+      <workItem from="1739608169536" duration="611000" />
+      <workItem from="1739610274515" duration="594000" />
+      <workItem from="1739645520054" duration="308000" />
     </task>
     <task id="LOCAL-00013" summary="week1 Diagonal Difference solved!">
       <created>1738661515157</created>
@@ -443,14 +442,20 @@
       <option name="project" value="LOCAL" />
       <updated>1739563816321</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Java Object Oriented Programming  Instanceof keyword solved!">
+      <created>1739564198365</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1739564198365</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Data Structures 1D Array solved!" />
     <MESSAGE value="Data Structures 2D Array solved!" />
     <MESSAGE value="week2 Sales By Match solved!" />
     <MESSAGE value="mockTest findTheMedian solved!" />
@@ -475,6 +480,7 @@
     <MESSAGE value="Java Object Oriented Programming Interface solved!" />
     <MESSAGE value="Java Object Oriented Programming Method Overriding solved!" />
     <MESSAGE value="Java Object Oriented Programming Method Overriding 2 (Super Keyword) solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Object Oriented Programming Method Overriding 2 (Super Keyword) solved!" />
+    <MESSAGE value="Java Object Oriented Programming  Instanceof keyword solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Object Oriented Programming  Instanceof keyword solved!" />
   </component>
 </project>
