@@ -1,6 +1,11 @@
 package com.hakancivelek.java.objectOrientedProgramming.abstractClass;
 
 import java.util.*;
+
+/**
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
+ * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>/
+ **/
 abstract class Book{
     String title;
     abstract void setTitle(String s);

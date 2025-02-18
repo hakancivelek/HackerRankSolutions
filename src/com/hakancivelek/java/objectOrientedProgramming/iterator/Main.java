@@ -2,6 +2,10 @@ package com.hakancivelek.java.objectOrientedProgramming.iterator;
 
 import java.util.*;
 
+/**
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
+ * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>/
+ **/
 public class Main {
 
     static Iterator func(ArrayList mylist){

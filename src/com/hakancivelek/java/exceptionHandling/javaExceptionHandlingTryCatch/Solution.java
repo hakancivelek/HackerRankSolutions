@@ -2,6 +2,11 @@ package com.hakancivelek.java.exceptionHandling.javaExceptionHandlingTryCatch;
 
 import java.util.*;
 
+/**
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
+ * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>/
+ **/
+
 public class Solution {
 
     public static void main(String[] args) {

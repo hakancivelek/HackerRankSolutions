@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="" />
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/towerBreakers/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/towerBreakers/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/exceptionHandling/javaExceptionHandling/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/exceptionHandling/javaExceptionHandling/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/exceptionHandling/javaExceptionHandlingTryCatch/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/exceptionHandling/javaExceptionHandlingTryCatch/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/abstractClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/abstractClass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/iterator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/iterator/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/_Yazilim/Akin Kaldiroglu Trainings/Java ile RESTful  Web Servisi Gelistirme Temeller/myProjects/Java RESTful Project&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/_Yazilim/Akin Kaldiroglu Trainings/Object-Oriented and Functional Programming in Java/My practices/Groovy Practices For Functional Programming&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -101,14 +109,9 @@
       <workItem from="1739560314170" duration="4186000" />
       <workItem from="1739608169536" duration="611000" />
       <workItem from="1739610274515" duration="594000" />
-      <workItem from="1739645520054" duration="1243000" />
-    </task>
-    <task id="LOCAL-00015" summary="week1 Counting Sort solved!">
-      <created>1738666859399</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1738666859399</updated>
+      <workItem from="1739645520054" duration="1785000" />
+      <workItem from="1739702394122" duration="1124000" />
+      <workItem from="1739894327563" duration="336000" />
     </task>
     <task id="LOCAL-00016" summary="javaInt. Date and Time solved!">
       <created>1738699041735</created>
@@ -446,15 +449,20 @@
       <option name="project" value="LOCAL" />
       <updated>1739646568852</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Exception Handling Java Exception Handling solved!">
+      <created>1739646811991</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1739646811991</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="mockTest findTheMedian solved!" />
-    <MESSAGE value="mockTest Flipping The Matrix solved!" />
     <MESSAGE value="week2 Zig Zag Sequence solved!" />
     <MESSAGE value="week2 Drawing Book solved!" />
     <MESSAGE value="week2 Caesar Cipher solved!" />
@@ -478,6 +486,8 @@
     <MESSAGE value="Java Object Oriented Programming  Instanceof keyword solved!" />
     <MESSAGE value="Java Object Oriented Programming Iterator solved!" />
     <MESSAGE value="Java Exception Handling Java Exception Handling (Try-catch) solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Exception Handling Java Exception Handling (Try-catch) solved!" />
+    <MESSAGE value="Java Exception Handling Java Exception Handling solved!" />
+    <MESSAGE value="Exception Handling Java Exception Handling solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exception Handling Java Exception Handling solved!" />
   </component>
 </project>

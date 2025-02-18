@@ -2,6 +2,10 @@ package com.hakancivelek.java.exceptionHandling.javaExceptionHandling;
 
 import java.util.Scanner;
 
+/**
+ * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
+ * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>/
+ **/
 class MyCalculator {
 
     public long power(int n, int p) throws Exception {
