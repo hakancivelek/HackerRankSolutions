@@ -14,10 +14,9 @@ class Result {
      */
     public static String counterGame(long n) {
         boolean isLouiseTurn = true;
-        boolean isPowerOfTwo;
 
         while (n > 1) {
-            isPowerOfTwo = isPowerOfTwo(n);
+            boolean isPowerOfTwo = n == Long.highestOneBit(n);
             if (isPowerOfTwo) {
                 n /= 2;
             } else {
@@ -25,29 +24,10 @@ class Result {
                 n -= largestPowerOfTwo;
             }
 
-            // Switch turns
             isLouiseTurn = !isLouiseTurn;
         }
 
         return isLouiseTurn ? "Richard" : "Louise";
-    }
-
-    /**
-     * Checks if the given number is a power of two.
-     *
-     * @param n the number to check.
-     * @return true if the number is a power of two, false otherwise.
-     */
-    public static boolean isPowerOfTwo(long n) {
-
-        while (n > 1) {
-            if (n % 2 != 0) {
-                return false;
-            }
-            n = n / 2;
-        }
-
-        return true;
     }
 
 }

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,14 +104,7 @@
       <workItem from="1739645520054" duration="1785000" />
       <workItem from="1739702394122" duration="1124000" />
       <workItem from="1739894327563" duration="995000" />
-      <workItem from="1740335612180" duration="4268000" />
-    </task>
-    <task id="LOCAL-00018" summary="week1 Pangrams solved!">
-      <created>1738741973331</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1738741973331</updated>
+      <workItem from="1740335612180" duration="4730000" />
     </task>
     <task id="LOCAL-00019" summary="week1 Permuting Two Arrays solved!">
       <created>1738744143789</created>
@@ -451,14 +442,20 @@
       <option name="project" value="LOCAL" />
       <updated>1740339165204</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Week2 Counter Game solved!">
+      <created>1740342149225</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1740342149225</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week2 Caesar Cipher solved!" />
     <MESSAGE value="week2 Max Min solved!" />
     <MESSAGE value="week2 Dynamic Array solved!" />
     <MESSAGE value="week2 Grid Challenge solved!" />
@@ -483,6 +480,7 @@
     <MESSAGE value="Exception Handling Java Exception Handling solved!" />
     <MESSAGE value="Week2 Tower Breakers solved!" />
     <MESSAGE value="Week2 Recursive Digit Sum solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week2 Recursive Digit Sum solved!" />
+    <MESSAGE value="Week2 Counter Game solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week2 Counter Game solved!" />
   </component>
 </project>
