@@ -2,7 +2,6 @@ package com.hakancivelek.preparationKits.oneMonthPreparationKit.week2.towerBreak
 
 import java.util.*;
 
-
 /**
  * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * @see <a href="https://www.linkedin.com/in/hakancivelek">LinkedIn Profile</a>/
