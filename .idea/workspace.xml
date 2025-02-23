@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/recursiveDigitSum/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/recursiveDigitSum/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/towerBreakers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/towerBreakers/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,14 +106,7 @@
       <workItem from="1739645520054" duration="1785000" />
       <workItem from="1739702394122" duration="1124000" />
       <workItem from="1739894327563" duration="995000" />
-      <workItem from="1740335612180" duration="2856000" />
-    </task>
-    <task id="LOCAL-00017" summary="docs Updated">
-      <created>1738702178342</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1738702178342</updated>
+      <workItem from="1740335612180" duration="4268000" />
     </task>
     <task id="LOCAL-00018" summary="week1 Pangrams solved!">
       <created>1738741973331</created>
@@ -454,14 +444,20 @@
       <option name="project" value="LOCAL" />
       <updated>1739894683981</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Week2 Recursive Digit Sum solved!">
+      <created>1740339165204</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1740339165204</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week2 Drawing Book solved!" />
     <MESSAGE value="week2 Caesar Cipher solved!" />
     <MESSAGE value="week2 Max Min solved!" />
     <MESSAGE value="week2 Dynamic Array solved!" />
@@ -486,6 +482,7 @@
     <MESSAGE value="Java Exception Handling Java Exception Handling solved!" />
     <MESSAGE value="Exception Handling Java Exception Handling solved!" />
     <MESSAGE value="Week2 Tower Breakers solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week2 Tower Breakers solved!" />
+    <MESSAGE value="Week2 Recursive Digit Sum solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week2 Recursive Digit Sum solved!" />
   </component>
 </project>
