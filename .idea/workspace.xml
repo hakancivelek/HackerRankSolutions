@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/generics/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,14 +107,9 @@
       <workItem from="1739702394122" duration="1124000" />
       <workItem from="1739894327563" duration="995000" />
       <workItem from="1740335612180" duration="5801000" />
-      <workItem from="1740682529154" duration="612000" />
-    </task>
-    <task id="LOCAL-00020" summary="javaDocs fixed!">
-      <created>1738744678293</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1738744678293</updated>
+      <workItem from="1740682529154" duration="796000" />
+      <workItem from="1740686739277" duration="343000" />
+      <workItem from="1740738493247" duration="723000" />
     </task>
     <task id="LOCAL-00021" summary="introduction Currency Formatter solved!">
       <created>1738760218478</created>
@@ -453,14 +447,20 @@
       <option name="project" value="LOCAL" />
       <updated>1740342632939</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Java data structures generics solved!">
+      <created>1740684954057</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1740684954057</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week2 Dynamic Array solved!" />
     <MESSAGE value="week2 Grid Challenge solved!" />
     <MESSAGE value="week2 Prime Dates solved!" />
     <MESSAGE value="week2 Sherlock and Array solved!" />
@@ -485,6 +485,7 @@
     <MESSAGE value="Week2 Recursive Digit Sum solved!" />
     <MESSAGE value="Week2 Counter Game solved!" />
     <MESSAGE value="Week2 Counter Game update with better solution!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week2 Counter Game update with better solution!" />
+    <MESSAGE value="Java data structures generics solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java data structures generics solved!" />
   </component>
 </project>
