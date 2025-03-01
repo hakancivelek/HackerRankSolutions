@@ -21,17 +21,15 @@ class Result {
         List<Integer> result = new ArrayList<>(2);
         int size = arr.size();
 
+        here:
         for (int i = 0; i < size; i++) {
             for (int j = i + 1; j < size; j++) {
                 int sum = arr.get(i) + arr.get(j);
                 if (sum == m) {
                     result.add(i + 1);
                     result.add(j + 1);
-                    break;
+                    break here;
                 }
-            }
-            if (!result.isEmpty()) {
-                break;
             }
         }
 
