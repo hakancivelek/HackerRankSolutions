@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="fix">
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseADoublyLinkedList/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseADoublyLinkedList/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/iceCreamParlor/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/iceCreamParlor/Result.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,14 +115,8 @@
       <workItem from="1740771838454" duration="960000" />
       <workItem from="1740805502801" duration="638000" />
       <workItem from="1740833388844" duration="1467000" />
-      <workItem from="1740856411323" duration="1269000" />
-    </task>
-    <task id="LOCAL-00023" summary="introduction Substring solved!">
-      <created>1738775768960</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1738775768961</updated>
+      <workItem from="1740856411323" duration="4291000" />
+      <workItem from="1740906684733" duration="895000" />
     </task>
     <task id="LOCAL-00024" summary="introduction Substring Comparisons solved!">
       <created>1738778593295</created>
@@ -459,14 +454,20 @@
       <option name="project" value="LOCAL" />
       <updated>1740858751860</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="code beauty">
+      <created>1740859355466</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1740859355466</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week2 Sherlock and Array solved!" />
     <MESSAGE value="week2 Sum vs XOR solved!" />
     <MESSAGE value="Java Data Structures List solved!" />
     <MESSAGE value="Java Data Structures Map solved!" />
@@ -491,17 +492,7 @@
     <MESSAGE value="Java data structures generics solved!" />
     <MESSAGE value="Java Data Structures BitSet solved!" />
     <MESSAGE value="Week3 Ice Cream Parlor solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week3 Ice Cream Parlor solved!" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/iceCreamParlor/Result.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="code beauty" />
+    <option name="LAST_COMMIT_MESSAGE" value="code beauty" />
   </component>
 </project>
