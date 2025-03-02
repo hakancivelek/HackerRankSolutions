@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseADoublyLinkedList/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseADoublyLinkedList/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,14 +114,7 @@
       <workItem from="1740805502801" duration="638000" />
       <workItem from="1740833388844" duration="1467000" />
       <workItem from="1740856411323" duration="4291000" />
-      <workItem from="1740906684733" duration="895000" />
-    </task>
-    <task id="LOCAL-00024" summary="introduction Substring Comparisons solved!">
-      <created>1738778593295</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1738778593295</updated>
+      <workItem from="1740906684733" duration="1721000" />
     </task>
     <task id="LOCAL-00025" summary="introduction String revers and week1 Subarray Division 1 solved!">
       <created>1738839421468</created>
@@ -461,14 +452,20 @@
       <option name="project" value="LOCAL" />
       <updated>1740859355466</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Week3 Reverse a doubly linked list solved!">
+      <created>1740908507924</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1740908507924</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week2 Sum vs XOR solved!" />
     <MESSAGE value="Java Data Structures List solved!" />
     <MESSAGE value="Java Data Structures Map solved!" />
     <MESSAGE value="Java Data Structures Stack solved!" />
@@ -493,6 +490,7 @@
     <MESSAGE value="Java Data Structures BitSet solved!" />
     <MESSAGE value="Week3 Ice Cream Parlor solved!" />
     <MESSAGE value="code beauty" />
-    <option name="LAST_COMMIT_MESSAGE" value="code beauty" />
+    <MESSAGE value="Week3 Reverse a doubly linked list solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week3 Reverse a doubly linked list solved!" />
   </component>
 </project>
