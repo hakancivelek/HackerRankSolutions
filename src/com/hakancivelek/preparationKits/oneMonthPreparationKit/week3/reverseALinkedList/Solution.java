@@ -1,4 +1,4 @@
-package com.hakancivelek.preparationKits.oneMonthPreparationKit.week3.reverseALlinkedList;
+package com.hakancivelek.preparationKits.oneMonthPreparationKit.week3.reverseALinkedList;
 
 import java.util.Scanner;
 

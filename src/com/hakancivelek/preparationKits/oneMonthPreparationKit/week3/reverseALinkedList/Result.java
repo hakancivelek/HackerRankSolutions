@@ -1,4 +1,4 @@
-package com.hakancivelek.preparationKits.oneMonthPreparationKit.week3.reverseALlinkedList;
+package com.hakancivelek.preparationKits.oneMonthPreparationKit.week3.reverseALinkedList;
 
 /**
  * @author <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
