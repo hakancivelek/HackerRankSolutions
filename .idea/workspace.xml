@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/insertANodeAtASpecificPositionInALinkedList/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/insertANodeAtASpecificPositionInALinkedList/Solution.java" afterDir="false" />
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="Week3 Insert a node at a specific position in a linked list solved!">
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/advanced/varargsSimpleAddition/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseALlinkedList/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseALinkedList/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseALlinkedList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseALinkedList/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,14 +116,9 @@
       <workItem from="1740833388844" duration="1467000" />
       <workItem from="1740856411323" duration="4291000" />
       <workItem from="1740906684733" duration="3878000" />
-      <workItem from="1741028880309" duration="2254000" />
-    </task>
-    <task id="LOCAL-00026" summary="doc fix">
-      <created>1738839451184</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1738839451184</updated>
+      <workItem from="1741028880309" duration="3264000" />
+      <workItem from="1741063055423" duration="322000" />
+      <workItem from="1741373473105" duration="973000" />
     </task>
     <task id="LOCAL-00027" summary="docs fixed">
       <created>1738839910006</created>
@@ -464,14 +456,20 @@
       <option name="project" value="LOCAL" />
       <updated>1740909447883</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Week3 Insert a node at a specific position in a linked list solved!">
+      <created>1741031333369</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1741031333370</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Data Structures Map solved!" />
     <MESSAGE value="Java Data Structures Stack solved!" />
     <MESSAGE value="Java Data Structures Hashset solved!" />
     <MESSAGE value="Java Data Structures Sort solved!" />
@@ -496,7 +494,8 @@
     <MESSAGE value="code beauty" />
     <MESSAGE value="Week3 Reverse a doubly linked list solved!" />
     <MESSAGE value="Week3 Reverse a linked list solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week3 Reverse a linked list solved!" />
+    <MESSAGE value="Week3 Insert a node at a specific position in a linked list solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week3 Insert a node at a specific position in a linked list solved!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRankSolutions$com_hakancivelek_preparationKits_oneMonthPreparationKit_week3_insertANodeAtASpecificPositionInALinkedList_Solution.ic" NAME="com.hakancivelek.preparationKits.oneMonthPreparationKit.week3.insertANodeAtASpecificPositionInALinkedList.Solution Coverage Results" MODIFIED="1741031027473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
