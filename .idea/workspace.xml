@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/mergeTwoSortedLinkedLists/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/mergeTwoSortedLinkedLists/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +37,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/_Yazilim/Akin Kaldiroglu Trainings/Object-Oriented and Functional Programming in Java/My practices/Groovy Practices For Functional Programming&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/_Yazilim/Akin Kaldiroglu Trainings/Udemy/Design Patterns/Design Patterns 2.0&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -121,21 +119,9 @@
       <workItem from="1741063055423" duration="322000" />
       <workItem from="1741373473105" duration="1632000" />
       <workItem from="1741454603149" duration="1306000" />
-      <workItem from="1741531462757" duration="301000" />
-    </task>
-    <task id="LOCAL-00028" summary="week1 XOR Strings 2 solved!">
-      <created>1738841223392</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1738841223392</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Strings Anagrams solved!">
-      <created>1738850598290</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1738850598290</updated>
+      <workItem from="1741531462757" duration="1104000" />
+      <workItem from="1741618629612" duration="987000" />
+      <workItem from="1741638181414" duration="430000" />
     </task>
     <task id="LOCAL-00030" summary="Strings String Tokens solved!">
       <created>1738851277672</created>
@@ -466,15 +452,27 @@
       <option name="project" value="LOCAL" />
       <updated>1741378106778</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Week3 Merge two sorted linked lists solved!">
+      <created>1741531781611</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1741531781611</updated>
+    </task>
+    <task id="LOCAL-00078" summary="removed Result.java and added to doc">
+      <created>1741531913273</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1741531913273</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Data Structures Hashset solved!" />
-    <MESSAGE value="Java Data Structures Sort solved!" />
     <MESSAGE value="Java Object Oriented Programming Inheritance I solved!" />
     <MESSAGE value="Java Object Oriented Programming Inheritance II solved!" />
     <MESSAGE value="Java Object Oriented Programming Abstract Class solved!" />
@@ -498,7 +496,9 @@
     <MESSAGE value="Week3 Reverse a linked list solved!" />
     <MESSAGE value="Week3 Insert a node at a specific position in a linked list solved!" />
     <MESSAGE value="Java Advanced Varargs - Simple Addition solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Advanced Varargs - Simple Addition solved!" />
+    <MESSAGE value="Week3 Merge two sorted linked lists solved!" />
+    <MESSAGE value="removed Result.java and added to doc" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed Result.java and added to doc" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRankSolutions$com_hakancivelek_preparationKits_oneMonthPreparationKit_week3_insertANodeAtASpecificPositionInALinkedList_Solution.ic" NAME="com.hakancivelek.preparationKits.oneMonthPreparationKit.week3.insertANodeAtASpecificPositionInALinkedList.Solution Coverage Results" MODIFIED="1741031027473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
