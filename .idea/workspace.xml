@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="" />
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,13 +123,8 @@
       <workItem from="1741618629612" duration="987000" />
       <workItem from="1741638181414" duration="430000" />
       <workItem from="1741863444670" duration="94000" />
-    </task>
-    <task id="LOCAL-00031" summary="Strings Pattern Syntax Checker solved!">
-      <created>1738852345899</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1738852345899</updated>
+      <workItem from="1741983119852" duration="677000" />
+      <workItem from="1742324113440" duration="375000" />
     </task>
     <task id="LOCAL-00032" summary="Strings Regex solved!">
       <created>1738862496734</created>
@@ -465,14 +462,20 @@
       <option name="project" value="LOCAL" />
       <updated>1741863530680</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Java Advanced Reflection - Attributes solved!">
+      <created>1741983198323</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1741983198323</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Object Oriented Programming Inheritance II solved!" />
     <MESSAGE value="Java Object Oriented Programming Abstract Class solved!" />
     <MESSAGE value="Java Object Oriented Programming Interface solved!" />
     <MESSAGE value="Java Object Oriented Programming Method Overriding solved!" />
@@ -497,7 +500,8 @@
     <MESSAGE value="Week3 Merge two sorted linked lists solved!" />
     <MESSAGE value="removed Result.java and added to doc" />
     <MESSAGE value="Java Strings Valid Username Regular Expression solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Strings Valid Username Regular Expression solved!" />
+    <MESSAGE value="Java Advanced Reflection - Attributes solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Advanced Reflection - Attributes solved!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRankSolutions$com_hakancivelek_preparationKits_oneMonthPreparationKit_week3_insertANodeAtASpecificPositionInALinkedList_Solution.ic" NAME="com.hakancivelek.preparationKits.oneMonthPreparationKit.week3.insertANodeAtASpecificPositionInALinkedList.Solution Coverage Results" MODIFIED="1741031027473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
