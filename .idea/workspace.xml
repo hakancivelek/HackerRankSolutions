@@ -4,8 +4,121 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="">
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/practicesWithClaudeAI/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRankSolutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRankSolutions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/advanced/singletonPattern/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/advanced/singletonPattern/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/advanced/varargsSimpleAddition/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/advanced/varargsSimpleAddition/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/bigNumber/bigDecimal/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/bigNumber/bigDecimal/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/bigNumber/bigInteger/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/bigNumber/bigInteger/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/bigNumber/primalityTest/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/bigNumber/primalityTest/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/Map/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/Map/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/arraylist/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/arraylist/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/bitSet/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/bitSet/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/generics/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/generics/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/hashSet/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/hashSet/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/list/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/list/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/oneDArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/oneDArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/sort/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/sort/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/sort/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/sort/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/stack/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/stack/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/twoDArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/dataStructures/twoDArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/exceptionHandling/javaExceptionHandling/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/exceptionHandling/javaExceptionHandling/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/exceptionHandling/javaExceptionHandlingTryCatch/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/exceptionHandling/javaExceptionHandlingTryCatch/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/currencyFormatter/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/currencyFormatter/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/dataTypes/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/dataTypes/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/dateAndTime/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/dateAndTime/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/endOfFile/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/endOfFile/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/intToString/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/intToString/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/loopsI/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/loopsI/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/loopsII/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/loopsII/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/outputFormatting/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/outputFormatting/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/staticInitializerBlock/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/staticInitializerBlock/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/stringReverse/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/stringReverse/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/stringsIntroduction/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/stringsIntroduction/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/substring/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/substring/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/substringComparisons/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/introduction/substringComparisons/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/InheritanceI/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/InheritanceI/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/InheritanceII/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/InheritanceII/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/Interface/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/Interface/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/abstractClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/abstractClass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/instanceofKeyword/InstanceOFTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/instanceofKeyword/InstanceOFTutorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/iterator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/iterator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/methodOverriding/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/methodOverriding/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/methodOverriding2SuperKeyword/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/objectOrientedProgramming/methodOverriding2SuperKeyword/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/reflectionAttributes/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/reflectionAttributes/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/anagrams/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/anagrams/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/patternSyntaxChecker/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/patternSyntaxChecker/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/regex/MyRegex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/regex/MyRegex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/regex/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/regex/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/stringTokens/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/stringTokens/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/validUsernameRegularExpression/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/java/strings/validUsernameRegularExpression/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/XORStrings2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/XORStrings2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/countingSort1/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/countingSort1/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/countingSort1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/countingSort1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/diagonalDifference/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/diagonalDifference/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/diagonalDifference/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/diagonalDifference/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/flippingBits/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/flippingBits/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/flippingBits/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/flippingBits/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/lonelyInteger/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/lonelyInteger/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/lonelyInteger/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/lonelyInteger/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/miniMaxSum/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/miniMaxSum/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/miniMaxSum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/miniMaxSum/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/mockTest/findTheMedian/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/mockTest/findTheMedian/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/mockTest/flippingTheMatrix/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/mockTest/flippingTheMatrix/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/pangrams/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/pangrams/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/pangrams/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/pangrams/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/permutingTwoArrays/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/permutingTwoArrays/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/permutingTwoArrays/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/permutingTwoArrays/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/plusMinus/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/plusMinus/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/plusMinus/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/plusMinus/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/sparseArray/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/sparseArray/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/sparseArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/sparseArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/subarrayDivision1/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/subarrayDivision1/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/subarrayDivision1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/subarrayDivision1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/timeConversion/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/timeConversion/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/timeConversion/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week1/timeConversion/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/caesarCipher/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/caesarCipher/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/caesarCipher/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/caesarCipher/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/counterGame/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/counterGame/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/counterGame/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/counterGame/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/drawingBook/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/drawingBook/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/drawingBook/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/drawingBook/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/dynamicArray/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/dynamicArray/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/dynamicArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/dynamicArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/gridChallange/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/gridChallange/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/gridChallange/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/gridChallange/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/maxMin/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/maxMin/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/maxMin/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/maxMin/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/primeDates/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/primeDates/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/recursiveDigitSum/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/recursiveDigitSum/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/recursiveDigitSum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/recursiveDigitSum/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/salesByMatch/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/salesByMatch/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/salesByMatch/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/salesByMatch/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/sherlockAndArray/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/sherlockAndArray/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/sherlockAndArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/sherlockAndArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/sumVsXOR/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/sumVsXOR/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/sumVsXOR/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/sumVsXOR/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/towerBreakers/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/towerBreakers/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/towerBreakers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/towerBreakers/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/zigZagSequence/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week2/zigZagSequence/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/iceCreamParlor/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/iceCreamParlor/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/iceCreamParlor/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/iceCreamParlor/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/insertANodeAtASpecificPositionInALinkedList/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/insertANodeAtASpecificPositionInALinkedList/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/insertANodeAtASpecificPositionInALinkedList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/insertANodeAtASpecificPositionInALinkedList/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/mergeTwoSortedLinkedLists/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/mergeTwoSortedLinkedLists/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseADoublyLinkedList/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseADoublyLinkedList/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseADoublyLinkedList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseADoublyLinkedList/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseALinkedList/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseALinkedList/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseALinkedList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/preparationKits/oneMonthPreparationKit/week3/reverseALinkedList/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,35 +136,55 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hakancivelek&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hakancivelek/HackerRankSolutions&quot;,
+    &quot;accountId&quot;: &quot;9edc5691-d22b-4d74-97e1-a45c9b45f6db&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2sRlfp7UBI9uWOrYqb4VSKP7Pk5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/_Yazilim/Akin Kaldiroglu Trainings/Udemy/Design Patterns/Design Patterns 2.0&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Solution.executor": "Debug",
+    "Application.TwoSum.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/hakan/PC/Software/HackerRankSolutions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\_Yazilim\HackerRankSolutions\src\com\hakancivelek\preparationKits\week1\lonelyInteger" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TwoSum">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hakancivelek.java.introduction.outputFormatting.Solution" />
       <module name="HackerRankSolutions" />
@@ -65,11 +198,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hakancivelek.practicesWithClaudeAI.TwoSum" />
+      <module name="HackerRankSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hakancivelek.practicesWithClaudeAI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -124,14 +279,12 @@
       <workItem from="1741638181414" duration="430000" />
       <workItem from="1741863444670" duration="94000" />
       <workItem from="1741983119852" duration="677000" />
-      <workItem from="1742324113440" duration="375000" />
-    </task>
-    <task id="LOCAL-00032" summary="Strings Regex solved!">
-      <created>1738862496734</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1738862496734</updated>
+      <workItem from="1742324113440" duration="661000" />
+      <workItem from="1742414809765" duration="28000" />
+      <workItem from="1744031095804" duration="633000" />
+      <workItem from="1756125922916" duration="808000" />
+      <workItem from="1756127108008" duration="91000" />
+      <workItem from="1756127205618" duration="711000" />
     </task>
     <task id="LOCAL-00033" summary="BigNumber BigDecimal solved!">
       <created>1738943457233</created>
@@ -469,15 +622,20 @@
       <option name="project" value="LOCAL" />
       <updated>1741983198323</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Java Advanced  Singleton Pattern solved!">
+      <created>1742324611581</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1742324611582</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Object Oriented Programming Abstract Class solved!" />
-    <MESSAGE value="Java Object Oriented Programming Interface solved!" />
     <MESSAGE value="Java Object Oriented Programming Method Overriding solved!" />
     <MESSAGE value="Java Object Oriented Programming Method Overriding 2 (Super Keyword) solved!" />
     <MESSAGE value="Java Object Oriented Programming  Instanceof keyword solved!" />
@@ -501,7 +659,13 @@
     <MESSAGE value="removed Result.java and added to doc" />
     <MESSAGE value="Java Strings Valid Username Regular Expression solved!" />
     <MESSAGE value="Java Advanced Reflection - Attributes solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Advanced Reflection - Attributes solved!" />
+    <MESSAGE value="Java Advanced  Singleton Pattern solved!" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRankSolutions$com_hakancivelek_preparationKits_oneMonthPreparationKit_week3_insertANodeAtASpecificPositionInALinkedList_Solution.ic" NAME="com.hakancivelek.preparationKits.oneMonthPreparationKit.week3.insertANodeAtASpecificPositionInALinkedList.Solution Coverage Results" MODIFIED="1741031027473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
