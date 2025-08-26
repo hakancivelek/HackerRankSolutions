@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="commit" />
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="Valid Parentheses solved!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/practicesWithClaudeAI/MaximumSubarray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/practicesWithClaudeAI/TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/practicesWithClaudeAI/ValidParentheses.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,32 +49,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Solution.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.TwoSum.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/hakan/PC/Software/HackerRankSolutions&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LongestCommonPrefix.executor": "Debug",
+    "Application.MaximumSubarray.executor": "Debug",
+    "Application.Solution.executor": "Debug",
+    "Application.TwoSum.executor": "Debug",
+    "Application.ValidParentheses.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/hakan/PC/Software/HackerRankSolutions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\_Yazilim\HackerRankSolutions\src\com\hakancivelek\preparationKits\week1\lonelyInteger" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoSum">
+  <component name="RunManager">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hakancivelek.java.introduction.outputFormatting.Solution" />
       <module name="HackerRankSolutions" />
@@ -84,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hakancivelek.practicesWithClaudeAI.TwoSum" />
+      <option name="MAIN_CLASS_NAME" value="com.hakancivelek.practicesWithClaudeAI.basicAlgorithms.TwoSum" />
       <module name="HackerRankSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hakancivelek.practicesWithClaudeAI.*" />
+          <option name="PATTERN" value="com.hakancivelek.practicesWithClaudeAI.basicAlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,6 +178,7 @@
       <workItem from="1756125922916" duration="808000" />
       <workItem from="1756127108008" duration="91000" />
       <workItem from="1756127205618" duration="711000" />
+      <workItem from="1756187462108" duration="3610000" />
     </task>
     <task id="LOCAL-00033" summary="BigNumber BigDecimal solved!">
       <created>1738943457233</created>
@@ -514,15 +523,13 @@
       <option name="project" value="LOCAL" />
       <updated>1742324611582</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Object Oriented Programming Method Overriding solved!" />
-    <MESSAGE value="Java Object Oriented Programming Method Overriding 2 (Super Keyword) solved!" />
     <MESSAGE value="Java Object Oriented Programming  Instanceof keyword solved!" />
     <MESSAGE value="Java Object Oriented Programming Iterator solved!" />
     <MESSAGE value="Java Exception Handling Java Exception Handling (Try-catch) solved!" />
@@ -546,7 +553,19 @@
     <MESSAGE value="Java Advanced Reflection - Attributes solved!" />
     <MESSAGE value="Java Advanced  Singleton Pattern solved!" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="Maximum Subarray solved!" />
+    <MESSAGE value="Valid Parentheses solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Valid Parentheses solved!" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
