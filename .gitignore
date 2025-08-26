@@ -3,7 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea
-HackerRankSolutions.iml
+.iml
 
 ### Eclipse ###
 .apt_generated
