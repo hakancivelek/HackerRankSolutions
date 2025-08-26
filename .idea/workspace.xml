@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="Longest Common Prefix solved!">
-      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/practicesWithClaudeAI/basicAlgorithms/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="Remove Duplicates From Sorted Array solved!">
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/practicesWithClaudeAI/basicAlgorithms/RotateArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/practicesWithClaudeAI/basicAlgorithms/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/practicesWithClaudeAI/basicAlgorithms/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/practicesWithClaudeAI/basicAlgorithms/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hakancivelek/practicesWithClaudeAI/basicAlgorithms/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +54,7 @@
     "Application.LongestCommonPrefix.executor": "Debug",
     "Application.MaximumSubarray.executor": "Debug",
     "Application.RemoveDuplicatesFromSortedArray.executor": "Debug",
+    "Application.RotateArray.executor": "Debug",
     "Application.Solution.executor": "Debug",
     "Application.TwoSum.executor": "Debug",
     "Application.ValidParentheses.executor": "Debug",
@@ -76,40 +79,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\_Yazilim\HackerRankSolutions\src\com\hakancivelek\preparationKits\week1\lonelyInteger" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hakancivelek.java.introduction.outputFormatting.Solution" />
-      <module name="HackerRankSolutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hakancivelek.java.introduction.outputFormatting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hakancivelek.practicesWithClaudeAI.basicAlgorithms.TwoSum" />
-      <module name="HackerRankSolutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hakancivelek.practicesWithClaudeAI.basicAlgorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.Solution" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -178,7 +147,7 @@
       <workItem from="1756125922916" duration="808000" />
       <workItem from="1756127108008" duration="91000" />
       <workItem from="1756127205618" duration="711000" />
-      <workItem from="1756187462108" duration="6004000" />
+      <workItem from="1756187462108" duration="12740000" />
     </task>
     <task id="LOCAL-00033" summary="BigNumber BigDecimal solved!">
       <created>1738943457233</created>
@@ -523,14 +492,13 @@
       <option name="project" value="LOCAL" />
       <updated>1742324611582</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Object Oriented Programming Iterator solved!" />
     <MESSAGE value="Java Exception Handling Java Exception Handling (Try-catch) solved!" />
     <MESSAGE value="Java Exception Handling Java Exception Handling solved!" />
     <MESSAGE value="Exception Handling Java Exception Handling solved!" />
@@ -555,7 +523,8 @@
     <MESSAGE value="Maximum Subarray solved!" />
     <MESSAGE value="Valid Parentheses solved!" />
     <MESSAGE value="Longest Common Prefix solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Longest Common Prefix solved!" />
+    <MESSAGE value="Remove Duplicates From Sorted Array solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Duplicates From Sorted Array solved!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

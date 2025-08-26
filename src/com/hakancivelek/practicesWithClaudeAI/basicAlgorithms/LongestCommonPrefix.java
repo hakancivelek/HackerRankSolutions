@@ -10,6 +10,7 @@ package com.hakancivelek.practicesWithClaudeAI.basicAlgorithms;
  * - ["dog", "racecar", "car"] → ""
  * - ["interspecies", "interstellar", "interstate"] → "inters"
  * <p>
+ *
  * Author: <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * LinkedIn: <a href="https://www.linkedin.com/in/hakancivelek">Profile</a>
  */

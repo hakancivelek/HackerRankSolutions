@@ -11,11 +11,11 @@ package com.hakancivelek.practicesWithClaudeAI.basicAlgorithms;
  * - Input: [1,1,2] → Output: 2 (unique: [1,2])
  * - Input: [1] → Output: 1 (unique: [1])
  * <p>
+ *
  * Author: <a href="hakancivelek5461@gmail.com">Hakan Civelek</a>
  * LinkedIn: <a href="https://www.linkedin.com/in/hakancivelek">Profile</a>
  */
 
-import java.text.MessageFormat;
 import java.util.Scanner;
 
 public class RemoveDuplicatesFromSortedArray {
