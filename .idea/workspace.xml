@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="Valid Parentheses solved!">
+    <list default="true" id="8537620a-2ead-4bdc-89d5-307f6aa33e45" name="Changes" comment="Longest Common Prefix solved!">
+      <change afterPath="$PROJECT_DIR$/src/com/hakancivelek/practicesWithClaudeAI/basicAlgorithms/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/practicesWithClaudeAI/MaximumSubarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/practicesWithClaudeAI/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hakancivelek/practicesWithClaudeAI/ValidParentheses.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +51,13 @@
   "keyToString": {
     "Application.LongestCommonPrefix.executor": "Debug",
     "Application.MaximumSubarray.executor": "Debug",
+    "Application.RemoveDuplicatesFromSortedArray.executor": "Debug",
     "Application.Solution.executor": "Debug",
     "Application.TwoSum.executor": "Debug",
     "Application.ValidParentheses.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
@@ -178,7 +178,7 @@
       <workItem from="1756125922916" duration="808000" />
       <workItem from="1756127108008" duration="91000" />
       <workItem from="1756127205618" duration="711000" />
-      <workItem from="1756187462108" duration="3610000" />
+      <workItem from="1756187462108" duration="6004000" />
     </task>
     <task id="LOCAL-00033" summary="BigNumber BigDecimal solved!">
       <created>1738943457233</created>
@@ -523,14 +523,13 @@
       <option name="project" value="LOCAL" />
       <updated>1742324611582</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java Object Oriented Programming  Instanceof keyword solved!" />
     <MESSAGE value="Java Object Oriented Programming Iterator solved!" />
     <MESSAGE value="Java Exception Handling Java Exception Handling (Try-catch) solved!" />
     <MESSAGE value="Java Exception Handling Java Exception Handling solved!" />
@@ -555,17 +554,8 @@
     <MESSAGE value="commit" />
     <MESSAGE value="Maximum Subarray solved!" />
     <MESSAGE value="Valid Parentheses solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Valid Parentheses solved!" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Longest Common Prefix solved!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Longest Common Prefix solved!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
