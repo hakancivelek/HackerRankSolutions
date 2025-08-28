@@ -27,7 +27,6 @@ public class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int length = in.nextInt();
-        int subArrayLength = 1;
         int negativeSums = 0;
         int[] arr = new int[length];
 
@@ -36,9 +35,6 @@ public class Solution {
         }
 
         while (true) {
-            int tempSum = 0;
-
-            // 1 -2 4 -5 1
             for (int start = 0; start < length; start++) {
                 int sum = 0;
                 for (int end = start; end < length; end++) {
